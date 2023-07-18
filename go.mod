@@ -1,3 +1,3 @@
-module chirpy
+module github.com/bootdotdev/courses/learn-web-servers/server
 
-go 1.16
+go 1.20
